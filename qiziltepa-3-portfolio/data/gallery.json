@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": "g-001",
+      "category": "Bino",
+      "caption": "Kollej binosi — fasad ko‘rinishi",
+      "src": "assets/images/gallery/bino/1.jpg",
+      "thumb": "assets/images/gallery/bino/1.jpg"
+    },
+    {
+      "id": "g-002",
+      "category": "Sinfxonalar",
+      "caption": "Zamonaviy sinfxona",
+      "src": "assets/images/gallery/sinfxonalar/1.jpg",
+      "thumb": "assets/images/gallery/sinfxonalar/1.jpg"
+    },
+    {
+      "id": "g-003",
+      "category": "Tadbirlar",
+      "caption": "Tadbir jarayoni",
+      "src": "assets/images/gallery/tadbirlar/1.jpg",
+      "thumb": "assets/images/gallery/tadbirlar/1.jpg"
+    },
+    {
+      "id": "g-004",
+      "category": "O‘qituvchilar",
+      "caption": "Ustozlar jamoasi",
+      "src": "assets/images/gallery/oqituvchilar/1.jpg",
+      "thumb": "assets/images/gallery/oqituvchilar/1.jpg"
+    }
+  ]
+}

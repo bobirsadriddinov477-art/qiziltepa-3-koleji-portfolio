@@ -1,0 +1,33 @@
+{
+  "people": [
+    {
+      "id": "l-001",
+      "group": "Rahbariyat",
+      "name": "Direktor (F.I.Sh keyin)",
+      "role": "Kollej direktori",
+      "note": "Ta’lim sifati va natijalar uchun mas’ul."
+    },
+    {
+      "id": "l-002",
+      "group": "Rahbariyat",
+      "name": "Direktor o‘rinbosari (keyin)",
+      "role": "O‘quv ishlari bo‘yicha",
+      "note": "O‘quv jarayonini muvofiqlashtiradi."
+    },
+
+    {
+      "id": "t-001",
+      "group": "Aniq fanlar",
+      "name": "O‘qituvchi (F.I.Sh keyin)",
+      "role": "Matematika",
+      "note": "Ochiq darslar va olimpiada tayyorgarligi."
+    },
+    {
+      "id": "t-002",
+      "group": "Kasbiy fanlar",
+      "name": "O‘qituvchi (F.I.Sh keyin)",
+      "role": "IT / Dasturlash",
+      "note": "Amaliy loyiha asosida o‘qitish."
+    }
+  ]
+}

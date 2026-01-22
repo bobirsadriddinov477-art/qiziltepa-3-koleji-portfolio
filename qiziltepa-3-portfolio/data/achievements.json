@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "a-001",
+      "title": "Viloyat olimpiadasi sovrindori",
+      "type": "Olimpiada",
+      "year": "2025",
+      "note": "Talabalarimiz viloyat bosqichida sovrinli o‘rinlarni egalladi."
+    },
+    {
+      "id": "a-002",
+      "title": "Hamkor tashkilot bilan memorandum",
+      "type": "Hamkorlik",
+      "year": "2026",
+      "note": "Amaliyot va ishga joylashish bo‘yicha hamkorlik yo‘lga qo‘yildi."
+    }
+  ]
+}

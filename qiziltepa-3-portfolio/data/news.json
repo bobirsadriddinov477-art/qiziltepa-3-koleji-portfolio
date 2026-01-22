@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "news-001",
+      "title": "2026-yil qabul jarayoni bo‘yicha ma’lumot",
+      "excerpt": "Qabul jarayoni belgilangan tartib asosida olib boriladi. Hujjatlar ro‘yxati va muddatlar bilan tanishing.",
+      "date": "2026-01-22",
+      "category": "Qabul"
+    },
+    {
+      "id": "news-002",
+      "title": "Ma’naviy-ma’rifiy tadbir o‘tkazildi",
+      "excerpt": "Talabalar ishtirokida ma’naviy-ma’rifiy tadbir tashkil etildi va faol qatnashganlar taqdirlandi.",
+      "date": "2026-01-18",
+      "category": "Tadbir"
+    }
+  ]
+}
