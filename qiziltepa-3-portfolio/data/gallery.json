@@ -25,8 +25,8 @@
       "id": "g-004",
       "category": "Tadbirlar",
       "caption": "Tadbir jarayoni",
-      "src": "assets/images/gallery/tadbirlar1.jpg",
-      "thumb": "assets/images/gallery/tadbirlar1.jpg"
+      "src": "assets/images/gallery/tadbirlar.jpg",
+      "thumb": "assets/images/gallery/tadbirlar.jpg"
     },
      {
       "id": "g-005",
@@ -44,5 +44,6 @@
     }
   ]
 }
+
 
 
