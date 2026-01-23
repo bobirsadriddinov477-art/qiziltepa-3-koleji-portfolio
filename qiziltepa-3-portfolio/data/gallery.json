@@ -18,11 +18,25 @@
       "id": "g-003",
       "category": "Tadbirlar",
       "caption": "Tadbir jarayoni",
+      "src": "assets/images/gallery/tadbirlar3.jpg",
+      "thumb": "assets/images/gallery/tadbirlar3.jpg"
+    },
+     {
+      "id": "g-004",
+      "category": "Tadbirlar",
+      "caption": "Tadbir jarayoni",
       "src": "assets/images/gallery/tadbirlar1.jpg",
       "thumb": "assets/images/gallery/tadbirlar1.jpg"
     },
+     {
+      "id": "g-005",
+      "category": "Tadbirlar",
+      "caption": "Tadbir jarayoni",
+      "src": "assets/images/gallery/tadbirlar2.jpg",
+      "thumb": "assets/images/gallery/tadbirlar2.jpg"
+    },
     {
-      "id": "g-004",
+      "id": "g-006",
       "category": "O‘qituvchilar",
       "caption": "Ustozlar jamoasi",
       "src": "assets/images/gallery/oqituvchilar/1.jpg",
@@ -30,4 +44,5 @@
     }
   ]
 }
+
 
