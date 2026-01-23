@@ -17,7 +17,7 @@
     {
       "id": "g-003",
       "category": "Tadbirlar",
-      "caption": "Tadbir jarayoni",
+      "caption": "Oyin kulgu",
       "src": "assets/images/gallery/tadbirlar1.jpg",
       "thumb": "assets/images/gallery/tadbirlar1.jpg"
     },
@@ -44,6 +44,7 @@
     }
   ]
 }
+
 
 
 
